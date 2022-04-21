@@ -15,6 +15,4 @@
 <img src='https://github.com/KarnikaKapoor/Files/blob/main/Colorful%20Handwritten%20About%20Me%20Blank%20Education%20Presentation.png?raw=true'>
 
 For more information on the attributes visit [here](https://www.kaggle.com/imakash3011/customer-personality-analysis).
-#%% md
-### Importing Libraries
-#%%
+
